@@ -10,14 +10,18 @@
   <a href="#tech-stack">Tech Stack</a> 
 </p>
 
+<h2 id="Desktop resposive">Desktop resposive</h2>
 <p align="center">
   <img 
     src="./public/card-dowhile-gif.gif"
     width="600px" height:"470"
     style="display: inline; border-radius: 15px; border: "
   />
+  
+  <br>
+  
 </p>
-
+<h2 id="Mobile resposive">Mobile resposive</h2>
 <p align="center">
   <img 
     src="./public/card-dowhile-mob.gif.gif" 
