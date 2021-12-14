@@ -20,7 +20,7 @@
 
 <p align="center">
   <img 
-    src="./public/mobile-badge.gif"
+    src="./public/card-dowhile-gif.gif
     width="702px"
     style="display: inline; border-radius: 15px; border: "
   />
