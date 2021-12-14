@@ -21,7 +21,7 @@
 <p align="center">
   <img 
     src="./public/mobile-badge.gif"
-    width="200px"
+    width="702px"
     style="display: inline; border-radius: 15px; border: "
   />
 </p>
