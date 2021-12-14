@@ -20,7 +20,7 @@
 
 <p align="center">
   <img 
-    src="./public/card-dowhile-gif.gif
+    src="./public/card-dowhile-mob-gif" 
     width="702px"
     style="display: inline; border-radius: 15px; border: "
   />
