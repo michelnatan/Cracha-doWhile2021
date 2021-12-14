@@ -21,7 +21,7 @@
 <p align="center">
   <img 
     src="./public/card-dowhile-mob.gif.gif" 
-    width="502px"
+    width="600px"
     style="display: inline; border-radius: 15px; border: "
   />
 </p>
