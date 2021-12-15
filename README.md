@@ -34,10 +34,9 @@
 
 <h2 id="why">🤔 Why?</h2>
 
-This design was created by Rocketseat Boosters and featured at NLW Heat, Rocketseat's latest NLW this year. The project presented in this repository was created in the Origin track, where starting points of HTML, CSS and JavaScript were given to beginners or those who wanted to reinforce this theoretical and technical knowledge.
+This design was created by Rocketseat Boosters and featured at NLW Heat, Rocketseat's latest NLW this year. The project presented in this repository was created on the Origin track, where we went through the learning and practices of HTML, CSS and JavaScript were given to beginners or those who wanted to reinforce this theoretical and technical knowledge.
 
-The initial project is completely static and doesn't respond to several devices, at the end of the project some challenges were made:
-Make the application desktop responsive and make animations. Challenges that I solved using CSS3.
+The initial project is completely static and doesn't respond to multiple devices, at the end of the project some challenges were made: Making the application's desktop responsive and making animations. Challenges I solved using CSS3.
 
 <h2 id="layout">🟩 Layout</h2>
 
